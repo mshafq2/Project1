@@ -3,8 +3,6 @@
 
 <head> 
 
-
-<link href="style.css" rel="stylesheet"> <!-- This is a link to a stylesheet. -->
 <h1 style="color:blue;">Which is correct ? What time or What time?</h1>
 
 </head>
