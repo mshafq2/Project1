@@ -3,11 +3,9 @@
 
 <head> 
 
-<title>
-Which is correct ? What time or What time ?
-</title>
+
 <link href="style.css" rel="stylesheet"> <!-- This is a link to a stylesheet. -->
-<h1 style="color:blue;">This is a Blue Heading</h1>
+<h1 style="color:blue;">Which is correct ? What time or What time?</h1>
 
 </head>
 
